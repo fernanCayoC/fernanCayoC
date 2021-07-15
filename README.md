@@ -1,5 +1,5 @@
 <h2> Hey, I'm Fernando Cayola <img src="https://media.giphy.com/media/l4FGBm7Imu3VXBxXa/giphy.gif" width="80"> </h2>
-<p><em>Student at  <a href="https://www.facebook.com/FICCTUAGRMOFICIAL"> Facultad de Ingenieria en Ciencias de la Computacion y Telecomunicaciones FICCT</a><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100">
+<p><em>Student at  <a href="https://www.facebook.com/FICCTUAGRMOFICIAL" target="_blank"> Facultad de Ingenieria en Ciencias de la Computacion y Telecomunicaciones FICCT</a><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100">
 </em></p>
 
 [![Facebook: Fernando Cayola](https://img.shields.io/twitter/follow/Fernando?logo=Facebook&style=social)](https://www.facebook.com/profile.php?id=100007576156975)
