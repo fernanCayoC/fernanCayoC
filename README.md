@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @fernanCayoC
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning IoT applications
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-fernanCayoC/fernanCayoC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.a
-You can click the Preview link to take a look at your changes.
---->
+```javascript
+const Fernando = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, Kotlin, Java, C++], 
+  tools: [Node, Mongo, Flask, Azure, Dialogflow, Embedded Systems],
+  areas: ["IoT", "Chatbots", "Electronics"],
+}
