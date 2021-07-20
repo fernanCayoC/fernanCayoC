@@ -4,9 +4,9 @@
 <p><em>Student at  <a href="https://www.facebook.com/FICCTUAGRMOFICIAL"> Facultad de Ingenieria en Ciencias de la Computacion y Telecomunicaciones FICCT</a>
 </em></p>
 
-[![Facebook: Fernando Cayola](https://img.shields.io/twitter/follow/Fernando?logo=Facebook&style=social)](https://www.facebook.com/profile.php?id=100007576156975)
-[![Instagram: mr_cayo](https://img.shields.io/badge/-@mr_cayo2-1ca0f1?style=social&logo=instagram&link=https://www.instagram.com/mr_cayo/?hl=es)](https://www.instagram.com/mr_cayo/?hl=es)
-[![Twitter: mr_cayo2](https://img.shields.io/twitter/follow/mr_cayo2?style=social)](https://twitter.com/mr_cayo2)
+[![Facebook: Fernando Cayola](https://img.shields.io/badge/-@Fernando-1ca0f1?style=social&logo=Facebook)](https://www.facebook.com/profile.php?id=100007576156975)
+[![Instagram: mr_cayo](https://img.shields.io/badge/-@mr_cayo-1ca0f1?style=social&logo=instagram)](https://www.instagram.com/mr_cayo/?hl=es)
+[![Twitter: mr_cayo2](https://img.shields.io/badge/-@mr_cayo2-1ca0f1?style=social&logo=twitter)](https://twitter.com/mr_cayo2)
 
 ### <img src="https://media.giphy.com/media/XabhIre57HUM8/giphy.gif" width="80">  A little more about me... 
  
