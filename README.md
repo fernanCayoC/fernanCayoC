@@ -6,7 +6,7 @@
 
 [![Facebook: Fernando Cayola](https://img.shields.io/badge/-@Fernando-1ca0f1?style=social&logo=Facebook)](https://www.facebook.com/profile.php?id=100007576156975)
 [![Instagram: mr_cayo](https://img.shields.io/badge/-@mr_cayo-1ca0f1?style=social&logo=instagram)](https://www.instagram.com/mr_cayo/?hl=es)
-[![Twitter: mr_cayo2](https://img.shields.io/badge/-@mr_cayo2-1ca0f1?style=social&logo=twitter)](https://twitter.com/mr_cayo2)
+[![Twitter: mr_cayo2](https://img.shields.io/badge/-@fernanCayoC-1ca0f1?style=social&logo=twitter)](https://twitter.com/fernanCayoC)
 
 ### <img src="https://media.giphy.com/media/XabhIre57HUM8/giphy.gif" width="80">  A little more about me... 
  
