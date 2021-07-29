@@ -13,8 +13,8 @@
 ```javascript
 const Fernan = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Kotlin, Python, Java, C++], 
-  tools: [Node, Mongo, Flask, Azure, Dialogflow, Embedded Systems],
+  code: [Javascript, HTML, CSS, Kotlin, Java, C++], 
+  tools: [Node, Mongo, Flask, Embedded Systems],
   areas: ["IoT", "Chatbots", "Electronics"],
 }
 ```
