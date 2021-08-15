@@ -3,7 +3,7 @@
 <h2 align="center"> Hey, I'm Fernando Cayola  </h2>
 <p><em>Student at  <a href="https://www.facebook.com/FICCTUAGRMOFICIAL"> Facultad de Ingenieria en Ciencias de la Computacion y Telecomunicaciones FICCT</a>
 </em></p>
-<p><em>Da Click al boton de Github para ver todos mis cerificados hasta la fecha:  </em></p>
+<p><em>Click on the Github button to see all my certificates to date:  </em></p>
 
 [![GitHub: Certificados](https://img.shields.io/badge/-@Certificados-1ca0f1?style=social&logo=GitHub)](https://github.com/fernanCayoC/Certificados/blob/main/README.md)
 [![Facebook: Fernando Cayola](https://img.shields.io/badge/-@Fernando-1ca0f1?style=social&logo=Facebook)](https://www.facebook.com/profile.php?id=100007576156975)
